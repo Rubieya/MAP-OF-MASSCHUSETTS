@@ -4,19 +4,12 @@ This repository contains a **cartographic map of Massachusetts** created in ArcG
 The map highlights the **state boundary, major highways, and parks**, demonstrating my GIS and cartographic visualization skills.
 
 ## 📌 Project Description
-- **Software Used:** ArcGIS Pro 3.5  
-- **Data Sources:**  
-  - US Census Bureau (Cartographic Boundary Files)  
-  - OpenStreetMap (for highways & parks)  
-- **Purpose:** To create a clean and professional map layout showing both natural (parks) and man-made (highways) features.  
+- **Software Used:** ArcGIS Pro 3.5
+- 
 - **Output Format:** PNG image of the final map.  
 
 ## 🖼️ Map Preview
-![Massachusetts Map](massachusetts_map.png)
-
-## 📂 Repository Contents
-- `massachusetts_map.png` → Exported final map image  
-- `README.md` → Project documentation  
+![Massachusetts Map] ![MAPOFMASSACHUSETTS_page-0001](https://github.com/user-attachments/assets/efd71cca-99f2-4e85-9b21-6794e7722278)
 
 ## 🔧 Tools & Skills Highlighted
 - ArcGIS Pro (map creation, symbology, labeling, layout design)  
